@@ -26,7 +26,7 @@
 | **硬體相關** | `hw/op-amp-simulation` | LTspice 模擬、PCB 繪製、機構設計 |
 | **修復錯誤** | `fix/sensor-noise` | 修正 Bug、解決電路雜訊 |
 | **文件撰寫** | `docs/week1-log` | 寫實驗日誌、更新 README、規格書 |
-| **數據處理** | `data/test` | 上傳新的實驗數據 |
+| **數據處理** | `data/melon-test` | 上傳新的實驗數據 |
 
 **操作流程：**
 1.  `git checkout -b feat/你的功能名稱`
@@ -55,7 +55,7 @@
 * ✅ `feat: 完成 LM358 放大電路 LTspice 模擬`
 * ✅ `fix: 修正 ADC 讀取數值飄移問題`
 * ✅ `docs: 新增 2/10 苦瓜測試日誌`
-* ❌ `update code`, `修正`, `123` (無意義訊息禁止)
+* ❌ `update code`, `修正`, `123` `(無意義訊息禁止)`
 
 ---
 
